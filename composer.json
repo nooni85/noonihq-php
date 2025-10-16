@@ -1,0 +1,15 @@
+{
+    "name": "nooni/hq-www",
+    "autoload": {
+        "psr-4": {
+            "Nooni\\HqWww\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sangwoo Joo",
+            "email": "noonihq@gmail.com"
+        }
+    ],
+    "require": {}
+}
